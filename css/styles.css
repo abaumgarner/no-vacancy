@@ -2,8 +2,16 @@
 YOUR STYLES
 *******************/
 
+.char1,
+.char5,
+.char10 {
+    color: cornflowerblue;
+}
 
-
+iframe{
+    height: auto;
+    width: 100%;
+}
 
 /********************
 MEDIA QUERIES

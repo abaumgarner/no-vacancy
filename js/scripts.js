@@ -1,3 +1,11 @@
 // My Scripts
-$('h1').novacancy();
-$('h1').trigger('blinkOn');
+$('#no').novacancy();
+$('#no').trigger('blinkOn');
+
+$('#fit').fitText();
+
+$('#letter').lettering();
+
+$(document).ready(function() {
+    $('#video').fitVids();
+});
